@@ -7,3 +7,7 @@
 - 0.5 (kaggle-skills write-kaggle-benchmarks SKILL.md): tasks need `.run(kbench.llm)` at the end or they silently no-op;
   the CLI creates TASKS only; a BENCHMARK (collection of tasks) must be created in the Kaggle web UI. The DEV rules want a
   benchmark link, so the own benchmark must be assembled in the web UI from published tasks.
+- 0.1 FAILED so far: `kaggle b t push` (CLI 2.2.4) prints "An error occurred while saving the entity changes" but tasks DO appear
+  in `kaggle b t list` with Status Unspecified; `run` refuses ("not ready, status UNSPECIFIED"). Same account likely lacks
+  Model Proxy enablement (b auth 403). Fallback 0.2: build the task in the Kaggle web editor.
+- Windows: set PYTHONUTF8=1 or the CLI crashes on table box-drawing chars (charmap error).
