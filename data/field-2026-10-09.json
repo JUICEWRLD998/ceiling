@@ -1,0 +1,2227 @@
+[
+ {
+  "id": 4776935,
+  "user": "gramli",
+  "title": "To Retry or Not to Retry? That Is the Question.",
+  "reactions": 49,
+  "comments": 47,
+  "published": "2026-10-08T07:00:15Z",
+  "words": 2338,
+  "links": [
+   "https://www.kaggle.com/benchmarks/danielbalcarek/reasoning-about-retry-safety-in-api/leaderboard"
+  ]
+ },
+ {
+  "id": 4820070,
+  "user": "lewisawe",
+  "title": "AI Models Have a Spine Until You Give Them a Manager",
+  "reactions": 0,
+  "comments": 2,
+  "published": "2026-10-08T21:34:28Z",
+  "words": 1275,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/lewissawe/committee-effect/4"
+  ]
+ },
+ {
+  "id": 4821322,
+  "user": "khushi886987",
+  "title": "LLMs Pass the Data-Science Quiz, Then Give Different Advice: A Kaggle Benchmark of 36 Measured Judgment Calls",
+  "reactions": 2,
+  "comments": 1,
+  "published": "2026-10-09T05:49:19Z",
+  "words": 1893,
+  "links": [
+   "https://www.kaggle.com/benchmarks/starkhushi/right-answer-wrong-reason-ml-judgment-calls",
+   "https://www.kaggle.com/benchmarks/tasks/starkhushi/ds-judgment/5",
+   "https://www.kaggle.com/benchmarks/tasks/starkhushi/ds-judgment-open/4"
+  ]
+ },
+ {
+  "id": 4822777,
+  "user": "finn_mead_feb2e66f91b0c9d",
+  "title": "The header says 10%. The table says 8%. Most frontier models quietly went with the table.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T10:39:25Z",
+  "words": 2390,
+  "links": [
+   "https://www.kaggle.com/benchmarks/finnmead/precedent-vs-spec",
+   "https://www.kaggle.com/benchmarks/tasks/finnmead/precedent-vs-spec"
+  ]
+ },
+ {
+  "id": 4822439,
+  "user": "kaichen_dev",
+  "title": "Would today's AI have caught Ariane 5? I rebuilt 26 of history's costliest bugs to find out",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T09:35:12Z",
+  "words": 2126,
+  "links": [
+   "https://www.kaggle.com/benchmarks/fuddle/hindsight-catching-historys-costliest-bugs",
+   "https://www.kaggle.com/benchmarks/tasks/fuddle/hindsight-historical",
+   "https://www.kaggle.com/benchmarks/tasks/fuddle/hindsight-disguised",
+   "https://www.kaggle.com/benchmarks/tasks/fuddle/hindsight-disguised-context",
+   "https://www.kaggle.com/benchmarks/tasks/fuddle/hindsight-fixed"
+  ]
+ },
+ {
+  "id": 4822164,
+  "user": "sirenamc",
+  "title": "My benchmark scored GPT-5.4 mini 1.00 by silently skipping the 3 questions it failed",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T08:48:48Z",
+  "words": 1979,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/dimatopka/one-turn",
+   "https://www.kaggle.com/code/dimatopka/shop-assistant-honesty-bench-ua-ru",
+   "https://www.kaggle.com/code/dimatopka/shop-assistant-bench-russian-request-repeats"
+  ]
+ },
+ {
+  "id": 4818251,
+  "user": "ajipelumi",
+  "title": "Six of seven models contradicted themselves on the same deprecation question",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T08:27:47Z",
+  "words": 1809,
+  "links": [
+   "https://www.kaggle.com/code/ajisafeoluwapelumi/deprecation-bench/notebook"
+  ]
+ },
+ {
+  "id": 4821385,
+  "user": "shiva_58957fc81dcd9b82868",
+  "title": "A sharper eye did not make a more careful model.",
+  "reactions": 6,
+  "comments": 0,
+  "published": "2026-10-09T06:05:46Z",
+  "words": 2449,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/hersheyz/human-verification-gap/12",
+   "https://www.kaggle.com/datasets/hersheyz/human-verification-gap-v8"
+  ]
+ },
+ {
+  "id": 4821300,
+  "user": "balaji75",
+  "title": "To Rephrase or Not to Rephrase: Will AI Change Its Answer If I Ask Differently?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T05:42:51Z",
+  "words": 1497,
+  "links": [
+   "https://www.kaggle.com/benchmarks/chauhanbalaji/paraphrase-stability-benchmark",
+   "https://www.kaggle.com/benchmarks/tasks/chauhanbalaji/paraphrase-stability",
+   "https://www.kaggle.com/code/chauhanbalaji/paraphrase-stability-benchmark"
+  ]
+ },
+ {
+  "id": 4822004,
+  "user": "yvoolab",
+  "title": "Can an LLM name the WCAG criterion a snippet violates? A 6-case RGAA benchmark on Kaggle",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T08:18:04Z",
+  "words": 1194,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/delphine53303/rgaa-a11y-judgement"
+  ]
+ },
+ {
+  "id": 4820402,
+  "user": "rafaorlando3",
+  "title": "7 LLMs reconciled 73 Pix statements: 99.6% correct order links, zero invented orders observed, and the hard part was the clock",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-09T00:30:35Z",
+  "words": 2366,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/rafaorlando3/pixrecon-pix-reconciliation/1",
+   "https://www.kaggle.com/code/rafaorlando3/pixrecon-pix-statement-reconciliation-benchmark"
+  ]
+ },
+ {
+  "id": 4821577,
+  "user": "henrysrdz",
+  "title": "NoAdivines: When Valid JSON Still Gets the Order Wrong",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-09T06:49:54Z",
+  "words": 2122,
+  "links": [
+   "https://www.kaggle.com/benchmarks/henrysrdz/noadivines-safe-order-taking-in-informal-spanish/versions/1",
+   "https://www.kaggle.com/benchmarks/tasks/henrysrdz/noadivines-bench/5",
+   "https://www.kaggle.com/code/henrysrdz/noadivines-safe-order-taking-in-informal-spanish"
+  ]
+ },
+ {
+  "id": 4820020,
+  "user": "jun-matsui",
+  "title": "Benchmarking LLMs on ETL Logic Synthesis: Can AI Truly Replace Data Pipeline Scripting?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T21:06:42Z",
+  "words": 947,
+  "links": [
+   "https://www.kaggle.com/benchmarks"
+  ]
+ },
+ {
+  "id": 4819389,
+  "user": "sigireddy_viswesh",
+  "title": "I Built a World With Rules. Then I Changed Them.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T17:31:17Z",
+  "words": 1452,
+  "links": [
+   "https://www.kaggle.com/benchmarks/sigireddyviswesh/nixie"
+  ]
+ },
+ {
+  "id": 4819218,
+  "user": "sagarrathi808",
+  "title": "Breaking the Subword Boundary: Probing Architectural Vulnerabilities in Modern LLMs (ASTRAL-Bench on Kaggle)",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T16:27:13Z",
+  "words": 1844,
+  "links": [
+   "https://www.kaggle.com/code/sagarrathi7620/dev-challange"
+  ]
+ },
+ {
+  "id": 4818665,
+  "user": "onkar-cybersec",
+  "title": "TrustBoundary Bench: when JSON formatting masquerades as an AI security failure",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T15:38:13Z",
+  "words": 921,
+  "links": [
+   "https://www.kaggle.com/benchmarks/onkarcybersec/trustboundary-bench",
+   "https://www.kaggle.com/benchmarks/tasks/onkarcybersec/trustboundary-authority"
+  ]
+ },
+ {
+  "id": 4820710,
+  "user": "jsb-securedme",
+  "title": "Three Engines, One Informed Choice: Benchmarking Orbit",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-09T02:24:38Z",
+  "words": 1905,
+  "links": [
+   "https://www.kaggle.com/benchmarks/celebrum/orbit-scoped-evidence-and-user-choice"
+  ]
+ },
+ {
+  "id": 4818226,
+  "user": "brandon_favor_cf98fad9596",
+  "title": "I Tested Whether Frontier AI Can Do a Texas Real Estate Agent's Desk Work — Here's What 3 Models Taught Me (and What the 4th Taught Me About Benchmarks)",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T13:53:23Z",
+  "words": 1411,
+  "links": [
+   "https://www.kaggle.com/benchmarks/brandonfavor/hunter"
+  ]
+ },
+ {
+  "id": 4818888,
+  "user": "sasankaweera123",
+  "title": "DeployGuard: Can AI Diagnose Deployment Logs Without Guessing?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T15:27:01Z",
+  "words": 1428,
+  "links": [
+   "https://www.kaggle.com/benchmarks/sasankaweerakoon/deployguard",
+   "https://www.kaggle.com/benchmarks/tasks/sasankaweerakoon/deployguard-log-diagnosis/1",
+   "https://www.kaggle.com/docs/benchmarks"
+  ]
+ },
+ {
+  "id": 4817542,
+  "user": "dilesh596",
+  "title": "Soul QA Bot: Smarter AI That Works Offline",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T11:05:16Z",
+  "words": 274,
+  "links": [
+   "https://www.kaggle.com/code/dileshzingare/qa-bot"
+  ]
+ },
+ {
+  "id": 4816385,
+  "user": "_81fb6f253e1d983da28dbc",
+  "title": "Can an AI Count a Music Loop? 24 Audio Arithmetic Checks",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T08:18:57Z",
+  "words": 1386,
+  "links": [
+   "https://www.kaggle.com/benchmarks/levittliwenye/audio-arithmetic-24-music-workflow-checks",
+   "https://www.kaggle.com/docs/benchmarks"
+  ]
+ },
+ {
+  "id": 4816900,
+  "user": "shaban_umar_eb956a5f684ce",
+  "title": "I showed AI the buggy code. Its tests started protecting the bug.",
+  "reactions": 1,
+  "comments": 1,
+  "published": "2026-10-08T09:27:37Z",
+  "words": 1947,
+  "links": [
+   "https://www.kaggle.com/benchmarks/shabanumar/green-tests-shipped-bugs",
+   "https://www.kaggle.com/benchmarks/tasks/shabanumar/green-tests-shipped-bugs",
+   "https://www.kaggle.com/code/shabanumar/green-tests-shipped-bugs"
+  ]
+ },
+ {
+  "id": 4813986,
+  "user": "denis_bardin_c95a80dd4d68",
+  "title": "My Benchmark Caught Me Lying Before It Caught Any Model: Do Coding Agents Report \"Verified\" Honestly?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-07T19:03:49Z",
+  "words": 1503,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/denisbardin26/verification-honesty**"
+  ]
+ },
+ {
+  "id": 4813495,
+  "user": "dcain2336",
+  "title": "\"Can I Eat This?\" — Benchmarking Whether AI Models Know Where Their Foraging Knowledge Ends",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-07T17:06:23Z",
+  "words": 1867,
+  "links": [
+   "https://www.kaggle.com/code/dec2336/forage-line-wild-edible-safety"
+  ]
+ },
+ {
+  "id": 4817766,
+  "user": "sandria",
+  "title": "elangpinkqueenze",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T11:58:01Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4813607,
+  "user": "orjodasutshab",
+  "title": "Mega AI Battle: Benchmarking 6 Top LLMs with Advanced Bangla Logic Riddles",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-07T17:40:46Z",
+  "words": 560,
+  "links": []
+ },
+ {
+  "id": 4812464,
+  "user": "redwan_rahman_57319981dd0",
+  "title": "RTL Receipt Test: Fluent Arabic is not the same as faithful evidence",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-07T13:12:57Z",
+  "words": 1608,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/redwanurrahmank/rtl-receipt-test-v1/4"
+  ]
+ },
+ {
+  "id": 4816741,
+  "user": "kasif_iqbal_2011a69632907",
+  "title": "test suite runs against a live sandbox with role tokens set as environment variables.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T09:08:00Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4811570,
+  "user": "emmimal_alexander_3be8cc7",
+  "title": "ButterflyBench: I Changed One Instruction. What Else Did the AI Change?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-07T10:36:14Z",
+  "words": 1933,
+  "links": [
+   "https://www.kaggle.com/benchmarks/emmimalalexander/butterflybench",
+   "https://www.kaggle.com/benchmarks/tasks/emmimalalexander/butterflybench",
+   "https://www.kaggle.com/code/emmimalalexander/butterflybench"
+  ]
+ },
+ {
+  "id": 4814063,
+  "user": "vinimabreu",
+  "title": "Keep the number you wrote: 40 beach plans, 8 models, and where the knots went",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-07T19:26:14Z",
+  "words": 1296,
+  "links": [
+   "https://www.kaggle.com/benchmarks/vinimabreu/keep-the-number-you-wrote",
+   "https://www.kaggle.com/benchmarks/tasks/vinimabreu/keep-the-number-you-wrote/1",
+   "https://www.kaggle.com/benchmarks/tasks/vinimabreu/keep-the-number-units-spelled-out/1"
+  ]
+ },
+ {
+  "id": 4810171,
+  "user": "anvi_pardhi",
+  "title": "Can AI Return a Copy-Ready Spreadsheet Formula? I Tested 3 Models",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-07T05:20:50Z",
+  "words": 276,
+  "links": []
+ },
+ {
+  "id": 4810486,
+  "user": "arjav_patni_1963ed32c00d2",
+  "title": "Hold the Line: Do AI Models Cave to Fake Math Professors?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-07T06:36:53Z",
+  "words": 571,
+  "links": [
+   "https://www.kaggle.com/code/arjavpatni/new-benchmark-task-0ef51"
+  ]
+ },
+ {
+  "id": 4809175,
+  "user": "kumbayaya1804",
+  "title": "The Politeness Trap: When Being Nice Breaks the Instruction Hierarchy",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-06T22:15:25Z",
+  "words": 1234,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/yalsaintarmand/instruction-hierarchy/1"
+  ]
+ },
+ {
+  "id": 4808765,
+  "user": "gracelee087",
+  "title": "Which AI lies less in marketing copy?",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-06T19:52:06Z",
+  "words": 4083,
+  "links": [
+   "https://www.kaggle.com/benchmarks/sohee087/which-ai-lies-less-in-marketing-copy",
+   "https://www.kaggle.com/benchmarks/tasks/sohee087/which-ai-lies-less-in-marketing-copy"
+  ]
+ },
+ {
+  "id": 4805976,
+  "user": "shenjun93",
+  "title": "Can an AI catch the catch? I benchmarked 14 models on bounty fine print",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-06T10:38:43Z",
+  "words": 1572,
+  "links": [
+   "https://www.kaggle.com/benchmarks/shenjun93/bounty-triage",
+   "https://www.kaggle.com/benchmarks/tasks/shenjun93/bounty-triage"
+  ]
+ },
+ {
+  "id": 4807529,
+  "user": "carlosjv91",
+  "title": "Receipt Before Claim: a 4% score that did not mean 96% wrong reasoning",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-06T14:54:45Z",
+  "words": 782,
+  "links": [
+   "https://www.kaggle.com/benchmarks/carlosjv91/receipt-before-claim",
+   "https://www.kaggle.com/benchmarks/tasks/carlosjv91/receipt-before-claim"
+  ]
+ },
+ {
+  "id": 4806164,
+  "user": "ankithm1006",
+  "title": "I tested 11 AI models on Indian GST, UPI and lakh-crore. Three famous ones got Puducherry wrong.",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-06T10:34:02Z",
+  "words": 968,
+  "links": [
+   "https://www.kaggle.com/benchmarks/ankith111111111/indian-business-data-gst-upi-and-lakh-crore"
+  ]
+ },
+ {
+  "id": 4805995,
+  "user": "mistakili",
+  "title": "The live realtor model passed. The goodbye failed. published: true",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-06T10:03:01Z",
+  "words": 785,
+  "links": [
+   "https://www.kaggle.com/benchmarks/mistakilihive/realtor-intake"
+  ]
+ },
+ {
+  "id": 4807192,
+  "user": "fjfdepedro",
+  "title": "My AI agents didn't fake citations. One in four still didn't hold.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-06T13:51:30Z",
+  "words": 2877,
+  "links": [
+   "https://www.kaggle.com/benchmarks/fjfdepedro/real-sources-drifted-claims",
+   "https://www.kaggle.com/benchmarks/tasks/fjfdepedro/citation-faithfulness",
+   "https://www.kaggle.com/benchmarks/tasks/fjfdepedro/grounded-writing"
+  ]
+ },
+ {
+  "id": 4805658,
+  "user": "helshahaby",
+  "title": "Kaggle Benchmarking Challenge",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-06T09:03:44Z",
+  "words": 1819,
+  "links": [
+   "https://www.kaggle.com/benchmarks/elshahaby/constraintbenckmark/"
+  ]
+ },
+ {
+  "id": 4802121,
+  "user": "dsiacci",
+  "title": "Asked in Dutch, sent to an English menu",
+  "reactions": 2,
+  "comments": 0,
+  "published": "2026-10-06T07:20:45Z",
+  "words": 2117,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/dumenicu/wrong-screen-answers",
+   "https://www.kaggle.com/datasets/dumenicu/wrong-screen-answers-data",
+   "https://www.kaggle.com/benchmarks/tasks/dumenicu/wrong-screen-answers-labels"
+  ]
+ },
+ {
+  "id": 4802917,
+  "user": "stevenmillerfl",
+  "title": "ContractClarity: Benchmarking LLMs on Contract Understanding",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-05T18:19:23Z",
+  "words": 572,
+  "links": [
+   "https://www.kaggle.com/code/stevenmillerfl/contractclarity-benchmarking-llms-on-contract-und"
+  ]
+ },
+ {
+  "id": 4803026,
+  "user": "mrmaran",
+  "title": "How well do AI models read Tanglish? I tested 13 of them",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-05T18:44:13Z",
+  "words": 1242,
+  "links": [
+   "https://www.kaggle.com/benchmarks/mrmaran06/tanglish-script-penalty",
+   "https://www.kaggle.com/benchmarks/tasks/mrmaran06/tanglish-script-penalty-english",
+   "https://www.kaggle.com/benchmarks/tasks/mrmaran06/tanglish-script-penalty-tamil",
+   "https://www.kaggle.com/benchmarks/tasks/mrmaran06/tanglish-script-penalty-tanglish"
+  ]
+ },
+ {
+  "id": 4803204,
+  "user": "alex_davidramirezlamill",
+  "title": "FairHire-ES: Maternity-gap lines move Spanish résumé scores more than names (256 twin cases)",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-05T20:21:02Z",
+  "words": 1225,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/davidramsem/fairhire-es-latam",
+   "https://www.kaggle.com/benchmarks/tasks/davidramsem/fairhire-es-latam/3",
+   "https://www.kaggle.com/benchmarks/tasks/davidramsem/fairhire-es-latam?compare=true",
+   "https://www.kaggle.com/benchmarks"
+  ]
+ },
+ {
+  "id": 4803751,
+  "user": "sean_campbell_840bd62bf7e",
+  "title": "Day 5: Professor Oakenscroll or: How I Hashed Every Line on My Laptop and Cut It Down to One Stranger's Photo, and... It Doesn't Matter",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-06T00:01:09Z",
+  "words": 1374,
+  "links": []
+ },
+ {
+  "id": 4801081,
+  "user": "daniel_drew",
+  "title": "Would an AI let my patient drink thin water? Benchmarking LLMs on dysphagia diet safety",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-05T10:54:31Z",
+  "words": 3171,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/danieldrew/iddsi-swallow-safety",
+   "https://www.kaggle.com/code/danieldrew/iddsi-testing"
+  ]
+ },
+ {
+  "id": 4801443,
+  "user": "hongliwang2002",
+  "title": "Cash Evidence Boundaries: Correct JSON Is Part of the Answer",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-05T12:12:52Z",
+  "words": 987,
+  "links": [
+   "https://www.kaggle.com/benchmarks/hongliwang2002/cash-evidence-boundaries",
+   "https://www.kaggle.com/benchmarks/tasks/hongliwang2002/cash-evidence-boundaries/1",
+   "https://www.kaggle.com/code/hongliwang2002/cash-evidence-boundaries"
+  ]
+ },
+ {
+  "id": 4798873,
+  "user": "emalia",
+  "title": "480 cases, 240 evil twins",
+  "reactions": 2,
+  "comments": 0,
+  "published": "2026-10-05T03:10:47Z",
+  "words": 2549,
+  "links": [
+   "https://www.kaggle.com/benchmarks/emaliahiggins/local-trust-bench"
+  ]
+ },
+ {
+  "id": 4793982,
+  "user": "anthony_oxendine_ec54806a",
+  "title": "Benchmarking Bare-Metal Tool Use: Do LLMs Understand Apple Silicon L1 Cache?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-04T01:13:07Z",
+  "words": 790,
+  "links": []
+ },
+ {
+  "id": 4793992,
+  "user": "vladimir_joseph_247918be4",
+  "title": "Phish or Legit: Do LLMs Know When NOT to Cry Wolf?",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-04T01:19:38Z",
+  "words": 714,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/aniojoseph/phish-or-legit-calibration",
+   "https://www.kaggle.com/datasets/aniojoseph/phish-or-legit-benchmark",
+   "https://www.kaggle.com/code/aniojoseph/phish-or-legit-quickstart"
+  ]
+ },
+ {
+  "id": 4812098,
+  "user": "abhisekroy169",
+  "title": "AgentToolEval: Grading How LLM Agents Use Tools, Not Just What They Answer",
+  "reactions": 9,
+  "comments": 1,
+  "published": "2026-10-08T06:51:00Z",
+  "words": 2046,
+  "links": [
+   "https://www.kaggle.com/benchmarks/abhialex/agentcallbench-tool-calling-reliability"
+  ]
+ },
+ {
+  "id": 4815114,
+  "user": "brunof94_debug",
+  "title": "Cents Matter: Does a Model Notice When One Financial Fact Changes?",
+  "reactions": 1,
+  "comments": 2,
+  "published": "2026-10-08T02:54:45Z",
+  "words": 1428,
+  "links": [
+   "https://www.kaggle.com/benchmarks/brunof94debug/cents-matter-centavos-importam",
+   "https://www.kaggle.com/benchmarks/tasks/brunof94debug/cents-matter-ptbr/1",
+   "https://www.kaggle.com/code/brunof94debug/cents-matter-centavos-importam?scriptVersionId=356190596",
+   "https://www.kaggle.com/code/brunof94debug/cents-matter-centavos-importam?scriptVersionId=356191553",
+   "https://www.kaggle.com/code/brunof94debug/cents-matter-centavos-importam?scriptVersionId=356191548"
+  ]
+ },
+ {
+  "id": 4793787,
+  "user": "win_aung_c84205e70ae9cba3",
+  "title": "MyanmarChemCalc-Bench: Do LLMs Do Chemistry Better in English Than in Burmese?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-03T23:15:08Z",
+  "words": 623,
+  "links": [
+   "https://www.kaggle.com/benchmarks/winkoaung/myanmar-chem-calc-bench"
+  ]
+ },
+ {
+  "id": 4791739,
+  "user": "hamza_mohammadkhan_8da7f",
+  "title": "Reward Evidence: an AI can track the money and still misread the opportunity",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-03T21:34:38Z",
+  "words": 1529,
+  "links": [
+   "https://www.kaggle.com/benchmarks/hkayzz/reward-evidence-offers-and-cash-receipts",
+   "https://www.kaggle.com/benchmarks/tasks/hkayzz/reward-evidence-grounded/2"
+  ]
+ },
+ {
+  "id": 4793857,
+  "user": "13owen",
+  "title": "'No peanuts' became include_ingredients: [\"peanuts\"]: a benchmark for tool calls a validator cannot catch",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-04T00:01:51Z",
+  "words": 2815,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/bowen1314/phantom-args-neutral"
+  ]
+ },
+ {
+  "id": 4814982,
+  "user": "lawliet8886",
+  "title": "Same Score, Different Failure: Fechamento BR",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-08T01:49:43Z",
+  "words": 2002,
+  "links": [
+   "https://www.kaggle.com/benchmarks/lawliet8886/fechamento-br-same-score-different-failure"
+  ]
+ },
+ {
+  "id": 4815335,
+  "user": "kesavaram_rathnasingam_5c",
+  "title": "Can AI Be Trusted to Code Financial Software? I Built a Benchmark to Find Out",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-08T04:10:23Z",
+  "words": 547,
+  "links": []
+ },
+ {
+  "id": 4813292,
+  "user": "zhuoli_liang_b6b05a8c3c1c",
+  "title": "Which clause wins? I benchmarked whether LLMs follow the rules that actually govern",
+  "reactions": 3,
+  "comments": 1,
+  "published": "2026-10-07T16:04:27Z",
+  "words": 2485,
+  "links": [
+   "https://www.kaggle.com/code/zhuoliliang/new-benchmark-task-e35ea"
+  ]
+ },
+ {
+  "id": 4793629,
+  "user": "iamclassified",
+  "title": "LIQUIDITY EVENT IDENTIFICATION An LLM Reasoning Benchmark",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-03T21:45:44Z",
+  "words": 415,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/iamclassified/liquidity-event-identification"
+  ]
+ },
+ {
+  "id": 4789428,
+  "user": "sean_campbell_840bd62bf7e",
+  "title": "Day 3: The benchmark caught me too.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T23:57:58Z",
+  "words": 1438,
+  "links": []
+ },
+ {
+  "id": 4788655,
+  "user": "aqeelabbas3972",
+  "title": "I asked AI to undo its work. One model broke 7 of 12 already-correct records.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T18:52:04Z",
+  "words": 1484,
+  "links": [
+   "https://www.kaggle.com/benchmarks/aqeelabbas38/undo-only-yours",
+   "https://www.kaggle.com/benchmarks/tasks/aqeelabbas38/undo-only-yours-v1-1",
+   "https://www.kaggle.com/datasets/aqeelabbas38/undo-only-yours-benchmark-evidence"
+  ]
+ },
+ {
+  "id": 4788724,
+  "user": "jayenichols",
+  "title": "FrameFlip48: four models, one frame switch, two kinds of failure",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T18:59:38Z",
+  "words": 1104,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/jayenichols/frameflip48?compare=true",
+   "https://www.kaggle.com/benchmarks/jayenichols/frameflip48",
+   "https://www.kaggle.com/benchmarks/tasks/jayenichols/frameflip48/1",
+   "https://www.kaggle.com/code/jayenichols/new-benchmark-task-62aca/notebook",
+   "https://www.kaggle.com/code/jayenichols/new-benchmark-task-62aca/output",
+   "https://www.kaggle.com/datasets/jayenichols/frameflip48-original-cases"
+  ]
+ },
+ {
+  "id": 4787776,
+  "user": "dr_ai_578f3b4b94ad92b1cc0",
+  "title": "I graded 8 AI models the way I grade new contact centre agents",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T14:16:56Z",
+  "words": 1546,
+  "links": [
+   "https://www.kaggle.com/benchmarks/mrawai/hold-the-line",
+   "https://www.kaggle.com/benchmarks/tasks/mrawai/hold-the-line-contact-centre-qa"
+  ]
+ },
+ {
+  "id": 4786191,
+  "user": "sean_campbell_840bd62bf7e",
+  "title": "Day 2: The model I want is the one that's boring everywhere",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T08:24:25Z",
+  "words": 2221,
+  "links": []
+ },
+ {
+  "id": 4783758,
+  "user": "widechaos",
+  "title": "Valid JSON is not enough: testing bilingual patch contracts on Kaggle",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T18:25:07Z",
+  "words": 987,
+  "links": [
+   "https://www.kaggle.com/benchmarks/xover2022/bilingual-patch-contracts",
+   "https://www.kaggle.com/benchmarks/tasks/xover2022/bilingual-patch-contracts/2",
+   "https://www.kaggle.com/code/xover2022/new-benchmark-task-0a5f1/output",
+   "https://www.kaggle.com/docs/benchmarks"
+  ]
+ },
+ {
+  "id": 4804448,
+  "user": "jay_jain_",
+  "title": "TOOL JUDGMENT: Does an AI Know When NOT to Use a Tool?",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-06T04:32:57Z",
+  "words": 1073,
+  "links": []
+ },
+ {
+  "id": 4782957,
+  "user": "jeffreyturov",
+  "title": "I benchmarked what frontier models actually know about 2026 — most of it, they don't",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T14:03:21Z",
+  "words": 704,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/jeffreyturov/post-cutoff-150",
+   "https://www.kaggle.com/datasets/jeffreyturov/post-cutoff-knowledge-150"
+  ]
+ },
+ {
+  "id": 4783452,
+  "user": "danielbutnar",
+  "title": "Braşov or Brașov? 15 LLMs spell my city right, until you spell it wrong first",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T16:05:58Z",
+  "words": 2498,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/danielbutnar/romanian-comma-below-7-echo-with-a-rule",
+   "https://www.kaggle.com/benchmarks/danielbutnar/romanian-comma-below"
+  ]
+ },
+ {
+  "id": 4785825,
+  "user": "oghieakhe_bc447e781565d1c",
+  "title": "The big win arena",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-02T06:37:18Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4785858,
+  "user": "min_khant_4787d06e70e7601",
+  "title": "Hello every one",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T06:48:39Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4783259,
+  "user": "sean233_0984ede20c450437f",
+  "title": "When a Fact Is Retracted, Can an AI Keep What Still Holds?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T15:04:17Z",
+  "words": 4612,
+  "links": [
+   "https://www.kaggle.com/datasets/sean2333/repair-without-breaking-reproducibility-evidence",
+   "https://www.kaggle.com/benchmarks/sean2333/repair-without-breaking-4096-token-follow-up"
+  ]
+ },
+ {
+  "id": 4781267,
+  "user": "jacobrichard312",
+  "title": "Evidence Boundary: when an AI benchmark measures its own grading rules",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T09:35:25Z",
+  "words": 1932,
+  "links": [
+   "https://www.kaggle.com/benchmarks/jacobrichard312/evidence-boundary-exposure-authority-and-grounding",
+   "https://www.kaggle.com/benchmarks/tasks/jacobrichard312/evidence-boundary/1"
+  ]
+ },
+ {
+  "id": 4779886,
+  "user": "shahbaz_ali",
+  "title": "Do LLMs Have a Spine? I Benchmarked Sycophancy Across 7 Frontier Models",
+  "reactions": 1,
+  "comments": 2,
+  "published": "2026-10-01T03:33:21Z",
+  "words": 1606,
+  "links": [
+   "https://www.kaggle.com/code/shahbazalivk18/sycophancy-under-pressure**"
+  ]
+ },
+ {
+  "id": 4784284,
+  "user": "akshatraj00",
+  "title": "More Data, Worse Decisions\" Paradox in Enterprise AI",
+  "reactions": 5,
+  "comments": 0,
+  "published": "2026-10-01T19:31:35Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4778648,
+  "user": "luodahong",
+  "title": "A correct action plan can still score zero",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-30T17:40:53Z",
+  "words": 1164,
+  "links": [
+   "https://www.kaggle.com/benchmarks/luodahong/progress-without-overreach/versions/1",
+   "https://www.kaggle.com/code/luodahong/progress-without-overreach/output?scriptVersionId=354208902"
+  ]
+ },
+ {
+  "id": 4777243,
+  "user": "apollonlabsai",
+  "title": "When LLMs don't know a Greek word, they make one up",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-30T11:34:13Z",
+  "words": 1242,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/jimmymoss/greek-invented-words",
+   "https://www.kaggle.com/datasets/jimmymoss/greek-invented-words-data"
+  ]
+ },
+ {
+  "id": 4776663,
+  "user": "mikomijie",
+  "title": "GPT-5.5 vs Claude vs Gemini: Which AI Explains Things Clearest? I Built a Benchmark to Find Out",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-30T09:46:11Z",
+  "words": 242,
+  "links": [
+   "https://www.kaggle.com/benchmarks/michaelomijiemkings/who-explains-things-clearest"
+  ]
+ },
+ {
+  "id": 4773829,
+  "user": "ashutoshranjan",
+  "title": "Only Gemini Failed My False-Premise Benchmark — 7 Models Tested",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-29T19:39:22Z",
+  "words": 957,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/ashutoshranjan8/false-premise-resistance/1",
+   "https://www.kaggle.com/benchmarks/ashutoshranjan8/false-premise-resistance-benchmark/versions/1"
+  ]
+ },
+ {
+  "id": 4792960,
+  "user": "aniruddhaadak",
+  "title": "Telltale: load-test an LLM's position before you ship it",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-03T18:19:55Z",
+  "words": 1629,
+  "links": [
+   "https://www.kaggle.com/benchmarks/<user"
+  ]
+ },
+ {
+  "id": 4766560,
+  "user": "anur4ag",
+  "title": "I Spun a Wheel of Fortune at 13 AI Models. Here's Who Took the Bait.",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-28T19:18:08Z",
+  "words": 3262,
+  "links": [
+   "https://www.kaggle.com/benchmarks/anur7ag/wheel-of-fortune"
+  ]
+ },
+ {
+  "id": 4764031,
+  "user": "harsh_singh_2f42f847185ce",
+  "title": "It knows you changed jobs. It still writes to your old manager.",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-28T19:31:56Z",
+  "words": 1864,
+  "links": [
+   "https://www.kaggle.com/benchmarks/harshsingh1708/stale-facts",
+   "https://www.kaggle.com/benchmarks/tasks/harshsingh1708/stale-current",
+   "https://www.kaggle.com/benchmarks/tasks/harshsingh1708/stale-historical",
+   "https://www.kaggle.com/benchmarks/tasks/harshsingh1708/stale-presupposed",
+   "https://www.kaggle.com/benchmarks/tasks/harshsingh1708/stale-abstain",
+   "https://www.kaggle.com/benchmarks/tasks/harshsingh1708/stale-control",
+   "https://www.kaggle.com/datasets/harshsingh1708/stale-facts-bench"
+  ]
+ },
+ {
+  "id": 4800457,
+  "user": "hellomathieup",
+  "title": "Do all AI-generated apps look the same? I measured it",
+  "reactions": 3,
+  "comments": 0,
+  "published": "2026-10-06T07:24:54Z",
+  "words": 3160,
+  "links": [
+   "https://www.kaggle.com/benchmarks/hellomathieup/twelve-apps-one-clich-each"
+  ]
+ },
+ {
+  "id": 4764871,
+  "user": "mahenderpratap",
+  "title": "Building a C++ Logical Bug Detection Benchmark on Kaggle: Testing 3 AI Models",
+  "reactions": 0,
+  "comments": 2,
+  "published": "2026-09-28T14:34:05Z",
+  "words": 394,
+  "links": [
+   "https://www.kaggle.com/benchmarks/mahenderprataps/cpp-logical-bug-detection-benchmark"
+  ]
+ },
+ {
+  "id": 4788117,
+  "user": "vernard_sharbney_4c39f22b",
+  "title": "The Cheapest, Fastest Model Is the Best Security Reviewer. I Tested 8 to Find Out.",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-02T15:33:12Z",
+  "words": 1568,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/vernardsharbney/security-vulnerability-detection-v2/1",
+   "https://www.kaggle.com/code/vernardsharbney/llm-security-vulnerability-detection-benchmark"
+  ]
+ },
+ {
+  "id": 4784966,
+  "user": "uptimearchitect",
+  "title": "I showed 30 AI models 336 monitoring dashboards. Most of them can't tell time.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-02T11:29:39Z",
+  "words": 2700,
+  "links": [
+   "https://www.kaggle.com/benchmarks/yaroslavperventsev/read-the-dashboard",
+   "https://www.kaggle.com/benchmarks/tasks/yaroslavperventsev/read-the-dashboard",
+   "https://www.kaggle.com/datasets/yaroslavperventsev/read-the-dashboard-panels",
+   "https://www.kaggle.com/benchmarks/tasks/yaroslavperventsev/read-the-dashboard-incidents",
+   "https://www.kaggle.com/datasets/yaroslavperventsev/read-the-dashboard-incidents"
+  ]
+ },
+ {
+  "id": 4787344,
+  "user": "mzeeshan127",
+  "title": "Can GPT-5.4 mini handle least-privilege cloud incidents? A 16-case benchmark",
+  "reactions": 0,
+  "comments": 2,
+  "published": "2026-10-02T12:20:51Z",
+  "words": 256,
+  "links": [
+   "https://www.kaggle.com/benchmarks/zeeshan1271/least-privilege-cloud-operations"
+  ]
+ },
+ {
+  "id": 4762238,
+  "user": "05uniquedotcom",
+  "title": "I Tested 5 AI Models on Hinglish — Here's Who Won",
+  "reactions": 3,
+  "comments": 1,
+  "published": "2026-09-28T09:36:44Z",
+  "words": 95,
+  "links": [
+   "https://www.kaggle.com/benchmarks/arshadmohammadansari/hinglish-ai-benchmark"
+  ]
+ },
+ {
+  "id": 4748062,
+  "user": "muslimgcoding",
+  "title": "Do LLMs Actually Fix Tricky React Hooks, or Do They Just Cheat?",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-09-26T08:30:12Z",
+  "words": 577,
+  "links": [
+   "https://www.kaggle.com/code/elevendev/react-hook-lifecycle-closure-reliability"
+  ]
+ },
+ {
+  "id": 4749948,
+  "user": "imokokok",
+  "title": "A Paused AI Workflow: Retry, Resume, or Keep Holding?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-26T13:19:58Z",
+  "words": 891,
+  "links": [
+   "https://www.kaggle.com/benchmarks/yutaopeng/paused-workflow-recovery-benchmark",
+   "https://www.kaggle.com/benchmarks/tasks/yutaopeng/paused-workflow-recovery-v1/1"
+  ]
+ },
+ {
+  "id": 4779051,
+  "user": "cekuu35",
+  "title": "I Found 60+ Live Supabase Keys in Public Repos, So I Benchmark Whether LLMs Can Spot Them",
+  "reactions": 6,
+  "comments": 1,
+  "published": "2026-09-30T18:23:17Z",
+  "words": 1125,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/cenkkurtolu/committed-supabase-key-detection"
+  ]
+ },
+ {
+  "id": 4747000,
+  "user": "rajab_baig_a3929cefc3758b",
+  "title": "MY Edit or Abstain: AI Code-Repair Decision Benchmark",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-26T05:41:43Z",
+  "words": 736,
+  "links": [
+   "https://www.kaggle.com/benchmarks/rajabbaig/my-edit-or-abstain-ai-code-repair-decision-bm"
+  ]
+ },
+ {
+  "id": 4745059,
+  "user": "anaalkmim",
+  "title": "I put one wrong test in the file. Most models sided with the test.",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-25T20:35:02Z",
+  "words": 1511,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/analuizaalkmim/wrong-test-bench"
+  ]
+ },
+ {
+  "id": 4744619,
+  "user": "akj1608",
+  "title": "Only What I Asked",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-25T18:45:08Z",
+  "words": 714,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/akj160/only-what-i-asked-plain",
+   "https://www.kaggle.com/benchmarks/tasks/akj160/only-what-i-asked-warned",
+   "https://www.kaggle.com/benchmarks/akj160/only-what-i-asked"
+  ]
+ },
+ {
+  "id": 4743785,
+  "user": "shahzeen_anwar_75143f6785",
+  "title": "Hook constraint benchmark kaggle-challenge DONE !!!",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-25T16:18:56Z",
+  "words": 609,
+  "links": [
+   "https://www.kaggle.com/code/shahzeenanwar/hook-constraint-benchmark-kaggle-challenge?scriptVersionId=352741515"
+  ]
+ },
+ {
+  "id": 4746597,
+  "user": "dina_836899",
+  "title": "Kagglechallenge",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-26T04:10:40Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4743579,
+  "user": "build996",
+  "title": "My benchmark for agents that fake \"done\" kept catching my own harness instead",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-25T15:13:46Z",
+  "words": 1415,
+  "links": [
+   "https://www.kaggle.com/benchmarks/shian668/claimed-done-do-agents-admit-a-task-failed",
+   "https://www.kaggle.com/benchmarks/tasks/shian668/claimed-done"
+  ]
+ },
+ {
+  "id": 4734126,
+  "user": "mujohn26",
+  "title": "Small AI Models Can See the Trap. They Fall In Anyway",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-09-24T13:06:04Z",
+  "words": 1132,
+  "links": [
+   "https://www.kaggle.com/benchmarks/mujohn25/knows-it-falls-anyway"
+  ]
+ },
+ {
+  "id": 4736445,
+  "user": "abdullah_qureshi_adddfe37",
+  "title": "Benchmarking Spatial & Visual Edge Cases: How Well Do Modern LLMs & Vision Models Handle Cluttered Environments",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T20:48:39Z",
+  "words": 325,
+  "links": []
+ },
+ {
+  "id": 4784546,
+  "user": "faqleed_jamshed_92e61a8fd",
+  "title": "hello u need sleep",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T22:08:31Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4736269,
+  "user": "natasha_harmon_f90ea0b7ac",
+  "title": "Testing AI Models with My Custom Kaggle Benchmark",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T20:00:40Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4729197,
+  "user": "tdealer01crypto",
+  "title": "Can an AI Agent Know When Not to Act? A Fail-Closed Reliability Benchmark Across Six Models",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T04:06:17Z",
+  "words": 836,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/taraaaa1111/governed-agent-reliability/3"
+  ]
+ },
+ {
+  "id": 4810794,
+  "user": "hugo_valer_79d0d94e00804b",
+  "title": "The model knew the rule. It still used last week's offset.",
+  "reactions": 3,
+  "comments": 4,
+  "published": "2026-10-07T08:15:36Z",
+  "words": 3353,
+  "links": [
+   "https://www.kaggle.com/benchmarks/hugovalerrojas/deadline-mat",
+   "https://www.kaggle.com/benchmarks/tasks/hugovalerrojas/deadline-math-pairs-direct",
+   "https://www.kaggle.com/benchmarks/tasks/hugovalerrojas/deadline-math-direct",
+   "https://www.kaggle.com/benchmarks/tasks/hugovalerrojas/deadline-math-reasoned",
+   "https://www.kaggle.com/benchmarks/tasks/hugovalerrojas/deadline-math-hard-direct",
+   "https://www.kaggle.com/benchmarks/tasks/hugovalerrojas/deadline-math-hard-reasoned"
+  ]
+ },
+ {
+  "id": 4804069,
+  "user": "mycmdhub",
+  "title": "Changing what my phone agent was shown beat changing the model",
+  "reactions": 1,
+  "comments": 3,
+  "published": "2026-10-07T00:19:31Z",
+  "words": 2091,
+  "links": [
+   "https://www.kaggle.com/benchmarks/dpquote/ovela-phone-agent-before-and-after-the-fix",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/booking-not-found-old-tool-wording",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/booking-not-found-question-removed",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/booking-not-found-current-tool-wording",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/unknown-caller-name-visible-to-agent",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/unknown-caller-name-withheld-in-code",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/email-question-email-missing-from-notes",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/email-question-email-in-notes",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/controls-caller-asks-directly",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/controls-caller-asks-current-design",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/probe-move-a-paid-booking",
+   "https://www.kaggle.com/benchmarks/tasks/dpquote/probe-move-a-booking-facts-in-notes"
+  ]
+ },
+ {
+  "id": 4745167,
+  "user": "ridhoajaaa",
+  "title": "Do LLMs Actually Check Their Tools? I Built a Benchmark That Lies to Them",
+  "reactions": 2,
+  "comments": 5,
+  "published": "2026-09-25T20:59:19Z",
+  "words": 2146,
+  "links": [
+   "https://www.kaggle.com/benchmarks",
+   "https://www.kaggle.com/code/idhoaf/new-benchmark-task-82f01",
+   "https://www.kaggle.com/benchmarks/idhoaf/sabotaged-tools-do-agents-verify-their-tools",
+   "https://www.kaggle.com/benchmarks/tasks/idhoaf/sabotaged-tools-main",
+   "https://www.kaggle.com/code/idhoaf/new-benchmark-task-cf266"
+  ]
+ },
+ {
+  "id": 4734369,
+  "user": "tomcate_9c4562b60a3ac8fe4",
+  "title": "I Turned a Real Security Incident Into a Benchmark. 6 Models Audited the Code That Lied.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T13:41:05Z",
+  "words": 1100,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/tomcate/audit-proxy-with-comments/4",
+   "https://www.kaggle.com/benchmarks/tasks/tomcate/audit-proxy-no-comments/4"
+  ]
+ },
+ {
+  "id": 4788126,
+  "user": "soumyadeepdey",
+  "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
+  "reactions": 94,
+  "comments": 91,
+  "published": "2026-10-02T15:34:23Z",
+  "words": 11261,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/soumyaexe/reality-threshold-scorecard",
+   "https://www.kaggle.com/benchmarks/soumyaexe/is-this-still-the-test",
+   "https://www.kaggle.com/benchmarks/tasks/soumyaexe/itst-round2-pilot",
+   "https://www.kaggle.com/benchmarks/tasks/soumyaexe/itst-reality-line-check",
+   "https://www.kaggle.com/benchmarks/tasks/soumyaexe/itst-silent-stop-followup"
+  ]
+ },
+ {
+  "id": 4728230,
+  "user": "aman_pathak_09",
+  "title": "Kaggel",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-23T23:32:41Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4728211,
+  "user": "mahdi_soukli_30735982d510",
+  "title": "kaggle ?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-23T23:25:56Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4805645,
+  "user": "hotragn",
+  "title": "I Ran 8 Concurrent Tool Calls on Shared State. The Best Model Hit Only 85.71% Safe-and-Optimal",
+  "reactions": 2,
+  "comments": 2,
+  "published": "2026-10-06T09:01:18Z",
+  "words": 953,
+  "links": [
+   "https://www.kaggle.com/pettuganihotragn",
+   "https://www.kaggle.com/benchmarks/pettuganihotragn/fan-out-concurrent-tool-safety",
+   "https://www.kaggle.com/benchmarks/tasks/pettuganihotragn/fan-out-hard/1",
+   "https://www.kaggle.com/benchmarks/tasks/pettuganihotragn/fan-out-schedule/3",
+   "https://www.kaggle.com/benchmarks/tasks/pettuganihotragn/fan-out-swarm/1",
+   "https://www.kaggle.com/benchmarks/tasks/pettuganihotragn/fan-out-day2-hard/1"
+  ]
+ },
+ {
+  "id": 4807743,
+  "user": "jashanpreet_kaur_917e774f",
+  "title": "Same Kind of Bug Isn't the Same Bug: Where AI Models Get Fooled",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-06T16:01:08Z",
+  "words": 2460,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/jashanpreetkaur24/zombiebench"
+  ]
+ },
+ {
+  "id": 4807226,
+  "user": "guillermovs",
+  "title": "Spec, Hash or Guess: Can LLMs Keep Spain's Tamper-Proof Invoice Ledger?",
+  "reactions": 2,
+  "comments": 2,
+  "published": "2026-10-06T14:15:13Z",
+  "words": 1656,
+  "links": [
+   "https://www.kaggle.com/benchmarks/guillermovs/spec-hash-or-guess-verifactu",
+   "https://www.kaggle.com/benchmarks/guillermovs/spec-hash-or-guess-verifactu/leaderboard",
+   "https://www.kaggle.com/benchmarks/tasks/guillermovs/vf-hash-input",
+   "https://www.kaggle.com/benchmarks/tasks/guillermovs/vf-hash-tool",
+   "https://www.kaggle.com/benchmarks/tasks/guillermovs/vf-hash-honesty",
+   "https://www.kaggle.com/benchmarks/tasks/guillermovs/vf-chain-audit"
+  ]
+ },
+ {
+  "id": 4754729,
+  "user": "peacebinflow",
+  "title": "LAW-N Real-World Data Layer",
+  "reactions": 3,
+  "comments": 0,
+  "published": "2026-09-27T08:45:33Z",
+  "words": 2237,
+  "links": []
+ },
+ {
+  "id": 4767981,
+  "user": "kurnisaiaishwarya077",
+  "title": "Memory Support",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-29T02:55:58Z",
+  "words": 1395,
+  "links": []
+ },
+ {
+  "id": 4742308,
+  "user": "kakarotdev",
+  "title": "Don't Take Orders From the Internet: Benchmarking 5 LLMs Against Indirect Prompt Injection",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-25T12:15:02Z",
+  "words": 1644,
+  "links": [
+   "https://www.kaggle.com/benchmarks/kakarotdev/dont-take-orders-from-the-internet"
+  ]
+ },
+ {
+  "id": 4789049,
+  "user": "simon_levy_e0b34a39073843",
+  "title": "A CSV benchmark with two zero scores and a useful diagnostic",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-02T20:45:27Z",
+  "words": 1818,
+  "links": [
+   "https://www.kaggle.com/code/simonlevy42/csv-inventory-contract-benchmark/output?scriptVersionId=354731097",
+   "https://www.kaggle.com/code/simonlevy42/csv-inventory-contract-benchmark/output?scriptVersionId=354732397",
+   "https://www.kaggle.com/benchmarks/simonlevy42/csv-contract-integrity",
+   "https://www.kaggle.com/benchmarks/tasks/simonlevy42/csv-inventory-contract-integrity-v6"
+  ]
+ },
+ {
+  "id": 4731686,
+  "user": "sh20raj",
+  "title": "Jev Is Not Trying to Be Another Chatbot — It Is Trying to Become a Decision Layer for Software",
+  "reactions": 5,
+  "comments": 0,
+  "published": "2026-09-24T08:37:52Z",
+  "words": 3534,
+  "links": []
+ },
+ {
+  "id": 4731636,
+  "user": "sh20raj",
+  "title": "Submission for the Kaggle Benchmarking Challenge",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T08:32:39Z",
+  "words": 1229,
+  "links": []
+ },
+ {
+  "id": 4780719,
+  "user": "sean_campbell_840bd62bf7e",
+  "title": "Day 1: Most of My Bugs Looked Like Model Behaviour",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T05:51:18Z",
+  "words": 1161,
+  "links": []
+ },
+ {
+  "id": 4780193,
+  "user": "guanguan_li_431227cf61c02",
+  "title": "The explanation was right. The policy ID was wrong.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T04:24:27Z",
+  "words": 1100,
+  "links": [
+   "https://www.kaggle.com/benchmarks/guanguanli/support-boundary-bench",
+   "https://www.kaggle.com/benchmarks/tasks/guanguanli/support-boundary-v2-eval-paired-structure/4",
+   "https://www.kaggle.com/code/guanguanli/new-benchmark-task-1be2d/output"
+  ]
+ },
+ {
+  "id": 4734098,
+  "user": "mustafa_shah_d0f390c78987",
+  "title": "I'd panel kaise banay",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T13:02:32Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4731579,
+  "user": "zanyere_coulibaly_2724a23",
+  "title": "CENTRE DE FORMATION UNIVERSITAIRE COOLDENGOD C D G INTERNATIONALE",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-24T08:26:03Z",
+  "words": 121,
+  "links": []
+ },
+ {
+  "id": 4731458,
+  "user": "zanyere_coulibaly_2724a23",
+  "title": "CENTRE DE FORMATION UNIVERSITAIRE COOLDENGOD C D G INTERNATIONALE",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T08:14:12Z",
+  "words": 119,
+  "links": []
+ },
+ {
+  "id": 4808354,
+  "user": "zerodrop",
+  "title": "Asked to undo a commit, 19 of 36 models destroyed work nobody mentioned",
+  "reactions": 0,
+  "comments": 4,
+  "published": "2026-10-06T18:25:48Z",
+  "words": 1578,
+  "links": [
+   "https://www.kaggle.com/benchmarks/devdoc83/destructive-reach",
+   "https://www.kaggle.com/benchmarks/tasks/devdoc83/destructive-reach-score"
+  ]
+ },
+ {
+  "id": 4757770,
+  "user": "soccer_skillsfreestyle_5",
+  "title": "Promise Is Not Payment: Verification Errors That Amount Accuracy Misses",
+  "reactions": 0,
+  "comments": 2,
+  "published": "2026-09-27T20:02:48Z",
+  "words": 1373,
+  "links": [
+   "https://www.kaggle.com/benchmarks/bjrnnorman/promise-is-not-payment",
+   "https://www.kaggle.com/benchmarks/tasks/bjrnnorman/promise-is-not-payment/1",
+   "https://www.kaggle.com/code/bjrnnorman/promise-is-not-payment?scriptVersionId=353397927",
+   "https://www.kaggle.com/code/bjrnnorman/promise-is-not-payment?scriptVersionId=353399748"
+  ]
+ },
+ {
+  "id": 4806077,
+  "user": "pavel_kkkkazantsev",
+  "title": "Green Tests, Broken Architecture: Four Models Review TypeScript Diffs",
+  "reactions": 11,
+  "comments": 2,
+  "published": "2026-10-06T10:20:38Z",
+  "words": 989,
+  "links": [
+   "https://www.kaggle.com/benchmarks/pavelkazantsev7776/architecture-aware-typescript-code-review/versions/1",
+   "https://www.kaggle.com/benchmarks/tasks/pavelkazantsev7776/safe-typescript-change-review-benchmark/1"
+  ]
+ },
+ {
+  "id": 4809340,
+  "user": "suraj_srivastav",
+  "title": "The Flattery Tax: I pressure-tested 29 LLMs with confident wrong users — the frontier held, the small ones folded",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-10-06T23:28:54Z",
+  "words": 1284,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/surajnsrivastav/false-premise-resistance/4"
+  ]
+ },
+ {
+  "id": 4806777,
+  "user": "olegvdv",
+  "title": "Every LLM I tested would help my mother prepay a fake OLX seller",
+  "reactions": 1,
+  "comments": 1,
+  "published": "2026-10-06T12:38:02Z",
+  "words": 2749,
+  "links": [
+   "https://www.kaggle.com/benchmarks/ipgleg/kz-scam-shield",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-scam-catch",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-disguised-scams",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-real-message-calm",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-grandma-pushback",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-plain-assistant"
+  ]
+ },
+ {
+  "id": 4807660,
+  "user": "olegvdv",
+  "title": "Every LLM I tested would help my mother prepay a fake OLX seller",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-06T15:22:43Z",
+  "words": 2749,
+  "links": [
+   "https://www.kaggle.com/benchmarks/ipgleg/kz-scam-shield",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-scam-catch",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-disguised-scams",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-real-message-calm",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-grandma-pushback",
+   "https://www.kaggle.com/benchmarks/tasks/ipgleg/kz-plain-assistant"
+  ]
+ },
+ {
+  "id": 4808624,
+  "user": "ankit_kumarsingh_e1f0b48",
+  "title": "19 AI Models, 2 Rounds of Pressure, 0 Caves: Testing Sycophancy on Famous Myths",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-06T19:17:22Z",
+  "words": 649,
+  "links": [
+   "https://www.kaggle.com/benchmarks/ankit121singh/sycophancy-under-pressure"
+  ]
+ },
+ {
+  "id": 4801962,
+  "user": "jonathansolvesstuff",
+  "title": "Alberta stopped changing its clocks in June. 19 of 19 frontier models still put Calgary on standard time in November.",
+  "reactions": 6,
+  "comments": 1,
+  "published": "2026-10-05T13:52:48Z",
+  "words": 3914,
+  "links": [
+   "https://www.kaggle.com/benchmarks/jonathanandrei/world-clock",
+   "https://www.kaggle.com/benchmarks/tasks/jonathanandrei/world-clock-from-memory",
+   "https://www.kaggle.com/benchmarks/tasks/jonathanandrei/world-clock-tool-v2"
+  ]
+ },
+ {
+  "id": 4800327,
+  "user": "kargut",
+  "title": "Give an LLM no facts and ask for a job ad. What does it commit to?",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-05T08:11:03Z",
+  "words": 1676,
+  "links": [
+   "https://www.kaggle.com/benchmarks/karlisgutans/job-ad-specificity-what-llms-commit-to/leaderboard",
+   "https://www.kaggle.com/benchmarks/karlisgutans/job-ad-specificity-20-what-llms-commit-to/leaderboard"
+  ]
+ },
+ {
+  "id": 4742518,
+  "user": "dan52242644dan",
+  "title": "# **Titanic – Machine Learning From Disaster: A Complete Project Overview**",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-09-25T12:34:18Z",
+  "words": 1029,
+  "links": [
+   "https://www.kaggle.com/datasets/dangwestoniii/new-day-data",
+   "https://www.kaggle.com/datasets/dangwestoniii/weston"
+  ]
+ },
+ {
+  "id": 4754483,
+  "user": "dj29",
+  "title": "Chain-of-Thought Faithfulness: Toggling 'Reasoning Mode' Made One Model 5x More Likely to Follow Its Own Mistakes",
+  "reactions": 58,
+  "comments": 36,
+  "published": "2026-09-27T07:59:44Z",
+  "words": 1140,
+  "links": [
+   "https://www.kaggle.com/benchmarks/cooldj29/cot-faithfulness/leaderboard"
+  ]
+ },
+ {
+  "id": 4794792,
+  "user": "manan_822e7",
+  "title": "Legacy Code Modernization Benchmark",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-04T07:16:16Z",
+  "words": 536,
+  "links": [
+   "https://www.kaggle.com/benchmarks/geekgod382/legacy-code-modernization"
+  ]
+ },
+ {
+  "id": 4732385,
+  "user": "atharva_rai_432aa5515b213",
+  "title": "Breaking Character: How \"Thinking\" AI Survives Villain Roleplay Traps",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-24T09:48:50Z",
+  "words": 386,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/atharvarai1/jailbreak-roleplay-test"
+  ]
+ },
+ {
+  "id": 4794595,
+  "user": "sean_campbell_840bd62bf7e",
+  "title": "Day 4: There never needed to be a check, just a gated Request. A story about finding the middle.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-04T06:15:24Z",
+  "words": 84,
+  "links": []
+ },
+ {
+  "id": 4728905,
+  "user": "atharva_rai_432aa5515b213",
+  "title": "How AI Models \"See\" Hidden Meaning: A Beginner's Subtext Benchmark",
+  "reactions": 2,
+  "comments": 0,
+  "published": "2026-09-24T03:01:06Z",
+  "words": 265,
+  "links": [
+   "https://www.kaggle.com/benchmarks/atharvarai1/first-benchmark"
+  ]
+ },
+ {
+  "id": 4786323,
+  "user": "kaze001",
+  "title": "I Poisoned One Test Per Problem. The Best Models Noticed, Then Made It Pass Anyway.",
+  "reactions": 2,
+  "comments": 2,
+  "published": "2026-10-02T09:06:02Z",
+  "words": 2261,
+  "links": [
+   "https://www.kaggle.com/benchmarks/shiroganemaji/passing-tests-vs-solving"
+  ]
+ },
+ {
+  "id": 4782905,
+  "user": "ujja",
+  "title": "I Benchmarked 10 AI Models to Reconstruct Real Cyber Attacks",
+  "reactions": 6,
+  "comments": 3,
+  "published": "2026-10-01T15:33:59Z",
+  "words": 2880,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-001-reconstruct-inc-001-full/3",
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-002-reconstruct-inc-002-full/3",
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-003-reconstruct-inc-003-full/3",
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-004-reconstruct-inc-001-temporal-cutoff-d1/3",
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-011-reconstruct-inc-002-framing-framed-as-human/3",
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-012-reconstruct-inc-002-framing-framed-as-ai-agent-republished/1",
+   "https://www.kaggle.com/benchmarks/tasks/ujjavalasingh/cyber-autopsy-case-013-reconstruct-inc-004-full-republished/1",
+   "https://www.kaggle.com/benchmarks/ujjavalasingh/cyber-autopsy-benchmark"
+  ]
+ },
+ {
+  "id": 4783308,
+  "user": "mpmike",
+  "title": "Can LLMs audit multi-agent prompts? I made them grade my robot football team.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-10-01T16:16:19Z",
+  "words": 1048,
+  "links": [
+   "https://www.kaggle.com/code/michaeltdemopoulos/can-llms-audit-multi-agent-prompts-bugle-crowns"
+  ]
+ },
+ {
+  "id": 4757420,
+  "user": "nishikantaray",
+  "title": "8 LLMs, 480 Questions, 1 Kaggle Benchmark: Who Can Explain a Traffic Drop?",
+  "reactions": 9,
+  "comments": 13,
+  "published": "2026-09-27T18:42:53Z",
+  "words": 2813,
+  "links": [
+   "https://www.kaggle.com/benchmarks/nishikantaray/insighttrack-analyst-bench",
+   "https://www.kaggle.com/datasets/nishikantaray/insighttrack-analyst-bench"
+  ]
+ },
+ {
+  "id": 4776605,
+  "user": "sean_campbell_840bd62bf7e",
+  "title": "Does your model know when it doesn't know? A benchmark for the ESCALATE answer",
+  "reactions": 1,
+  "comments": 4,
+  "published": "2026-09-30T09:36:03Z",
+  "words": 480,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/rudi193/escalation-bench-route",
+   "https://www.kaggle.com/benchmarks/tasks/rudi193/escalation-bench-classify",
+   "https://www.kaggle.com/benchmarks/tasks/rudi193/escalation-bench-judge",
+   "https://www.kaggle.com/benchmarks/tasks/rudi193/escalation-bench-ground"
+  ]
+ },
+ {
+  "id": 4774516,
+  "user": "respect17",
+  "title": "The Plausible PR: I Gave 4 LLMs 10 Sneaky Refactors, and They All Missed the Same Bug",
+  "reactions": 2,
+  "comments": 2,
+  "published": "2026-09-30T01:43:44Z",
+  "words": 688,
+  "links": [
+   "https://www.kaggle.com/benchmarks/kudzaimurimi/plausible-pr-security-bugs-hidden-in-clean-refact"
+  ]
+ },
+ {
+  "id": 4769260,
+  "user": "rustam335",
+  "title": "Ask ten LLMs for a Blender 5.0 script. Then run it in Blender 5.0.",
+  "reactions": 6,
+  "comments": 2,
+  "published": "2026-09-29T07:28:01Z",
+  "words": 2182,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/hoholalagaul/bpy-drift-runs/7",
+   "https://www.kaggle.com/datasets/hoholalagaul/bpy-drift-blender-builds"
+  ]
+ },
+ {
+  "id": 4770398,
+  "user": "anuththara2007w",
+  "title": "ProofSec: Benchmarking Epistemic Robustness and Evidence-Grounded Vulnerability Reasoning in Frontier LLM",
+  "reactions": 10,
+  "comments": 0,
+  "published": "2026-09-29T11:03:28Z",
+  "words": 4096,
+  "links": [
+   "https://www.kaggle.com/benchmarks/anuththara2007/proofsec-security-evidence-reasoning-benchmark/versions/1"
+  ]
+ },
+ {
+  "id": 4764262,
+  "user": "zerogam1ng",
+  "title": "I Benchmarked Whether AI Models Forget Corrections. The Answer Surprised Me.",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-28T13:08:00Z",
+  "words": 924,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/zerogam1ng/temporal-memory-decay/8"
+  ]
+ },
+ {
+  "id": 4751842,
+  "user": "commodus67",
+  "title": "Playoff Probability Calibration — LLMs vs. a Real Monte Carlo Model",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-26T19:33:53Z",
+  "words": 930,
+  "links": [
+   "https://www.kaggle.com/benchmarks/elioliberatore/playoff-probability-calibration-llms-vs-a-real-mo/leaderboard"
+  ]
+ },
+ {
+  "id": 4750764,
+  "user": "yongchan_kwonnuckdrip_",
+  "title": "When a Failed Request Must Stay Failed: Reservation Replay",
+  "reactions": 1,
+  "comments": 2,
+  "published": "2026-09-26T15:54:32Z",
+  "words": 1099,
+  "links": [
+   "https://www.kaggle.com/benchmarks/yongchankwonnuckdrip/reservation-replay"
+  ]
+ },
+ {
+  "id": 4743339,
+  "user": "akanksha_sharma",
+  "title": "The AI Was Right. The Answer Was Still Wrong.",
+  "reactions": 5,
+  "comments": 1,
+  "published": "2026-09-25T14:37:12Z",
+  "words": 576,
+  "links": []
+ },
+ {
+  "id": 4744048,
+  "user": "xbill",
+  "title": "Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens",
+  "reactions": 15,
+  "comments": 7,
+  "published": "2026-09-28T19:04:50Z",
+  "words": 2721,
+  "links": [
+   "https://www.kaggle.com/benchmarks/xbillwork/count-it-or-compute-it",
+   "https://www.kaggle.com/benchmarks/tasks/xbillwork/count-engine",
+   "https://www.kaggle.com/benchmarks/tasks/xbillwork/count-rows-tool",
+   "https://www.kaggle.com/benchmarks/tasks/xbillwork/count-python-tool",
+   "https://www.kaggle.com/benchmarks"
+  ]
+ },
+ {
+  "id": 4797209,
+  "user": "aarishmansur",
+  "title": "I tested 36 AI models for fake packages and found zero",
+  "reactions": 7,
+  "comments": 0,
+  "published": "2026-10-04T21:18:36Z",
+  "words": 1810,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/aarishmansur/hallucinated-packages/6**",
+   "https://www.kaggle.com/benchmarks/tasks/aarishmansur/hallucinated-packages-v7/4**"
+  ]
+ },
+ {
+  "id": 4760794,
+  "user": "himanshu_748",
+  "title": "ToolTrap: a prompt rule helped, but 7 of 10 models still repeated fake details on new cases",
+  "reactions": 21,
+  "comments": 22,
+  "published": "2026-09-28T07:04:21Z",
+  "words": 1684,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/himanshujha2812/tooltrap-v4-replication-20261004/1",
+   "https://www.kaggle.com/benchmarks/himanshujha2812/tooltrap-source-trust-in-support-agents",
+   "https://www.kaggle.com/benchmarks/tasks/himanshujha2812/tooltrap-v2-source-ablation/2",
+   "https://www.kaggle.com/benchmarks/tasks/himanshujha2812/tooltrap-v2-holdout/2",
+   "https://www.kaggle.com/benchmarks/tasks/himanshujha2812/tooltrap-v3-source-factorial/2",
+   "https://www.kaggle.com/benchmarks/tasks/himanshujha2812/tooltrap-v4-mechanism-transfer/1"
+  ]
+ },
+ {
+  "id": 4785723,
+  "user": "iswt42",
+  "title": "It Quoted the Failure: Two Kinds of False 'Done'",
+  "reactions": 1,
+  "comments": 0,
+  "published": "2026-10-02T07:30:56Z",
+  "words": 3825,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/iswt42/receipt-triplets-t1-report-bare-cap16k",
+   "https://www.kaggle.com/benchmarks/tasks/iswt42/receipt-triplets-t3-do-bare-cap16k",
+   "https://www.kaggle.com/benchmarks/iswt42/two-kinds-of-false-done",
+   "https://www.kaggle.com/datasets/iswt42/it-quoted-the-failure-evidence",
+   "https://www.kaggle.com/datasets/iswt42/coat-check-receipts-2026-10-07"
+  ]
+ },
+ {
+  "id": 4784209,
+  "user": "hao610",
+  "title": "Can LLMs Actually Audit Code, or Just Fix Commas? A 12-Task Security & Jailbreak Benchmark",
+  "reactions": 2,
+  "comments": 2,
+  "published": "2026-10-01T19:05:29Z",
+  "words": 1035,
+  "links": [
+   "https://www.kaggle.com/benchmarks/loichianghao/ai-security-stress-test-code-cloud-config-and-jail"
+  ]
+ },
+ {
+  "id": 4785109,
+  "user": "kakeroth",
+  "title": "I Surveyed 123 People in India to Benchmark Frontier AI",
+  "reactions": 27,
+  "comments": 0,
+  "published": "2026-10-02T02:36:05Z",
+  "words": 1180,
+  "links": [
+   "https://www.kaggle.com/benchmarks/kanakwaradkar/indocentric-institutional-ai-bias-benchmark/leaderboard",
+   "https://www.kaggle.com/benchmarks/kanakwaradkar/indocentric-institutional-ai-bias-benchmark",
+   "https://www.kaggle.com/benchmarks/tasks/kanakwaradkar/indocentric-deep-bias-benchmark/8"
+  ]
+ },
+ {
+  "id": 4783602,
+  "user": "soufianezaari",
+  "title": "DarijaBench: Do AI Models Actually Understand Moroccan Darija?",
+  "reactions": 1,
+  "comments": 3,
+  "published": "2026-10-01T16:39:56Z",
+  "words": 521,
+  "links": [
+   "https://www.kaggle.com/benchmarks/soufianzaari/darijabench"
+  ]
+ },
+ {
+  "id": 4783903,
+  "user": "nissshx",
+  "title": "I Gave 5 AI Models Bugs That Don't Crash Your Code. Here's Who Actually Fixed Them.",
+  "reactions": 0,
+  "comments": 2,
+  "published": "2026-10-01T18:13:23Z",
+  "words": 2504,
+  "links": [
+   "https://www.kaggle.com/benchmarks/nissshhk/silentbug-bench",
+   "https://www.kaggle.com/code/nissshhk/benchmark-dataset-py/edit",
+   "https://www.kaggle.com/code/nissshhk/generate-charts-py/edit"
+  ]
+ },
+ {
+  "id": 4778060,
+  "user": "pierrelaurentmedori",
+  "title": "Smaller models often read URLs like Python, not like fetch(). I benchmarked where the API key leaks",
+  "reactions": 8,
+  "comments": 2,
+  "published": "2026-10-01T14:27:32Z",
+  "words": 2837,
+  "links": [
+   "https://www.kaggle.com/benchmarks/pierrelaurentmedori/one-url-two-readings"
+  ]
+ },
+ {
+  "id": 4776819,
+  "user": "p0rt",
+  "title": "Same Patient, Conflicting Documents: Can AI Preserve the Evidence?",
+  "reactions": 7,
+  "comments": 0,
+  "published": "2026-09-30T10:20:40Z",
+  "words": 3396,
+  "links": [
+   "https://www.kaggle.com/benchmarks/sergeiparfenov/chartreplay-source-grounded-record-integrity"
+  ]
+ },
+ {
+  "id": 4774458,
+  "user": "wishbone_data",
+  "title": "1:30 AM Happens Twice on November 1. Most AI Models Picked One and Moved On.",
+  "reactions": 1,
+  "comments": 2,
+  "published": "2026-09-30T00:52:53Z",
+  "words": 1351,
+  "links": [
+   "https://www.kaggle.com/benchmarks/wishbonedata/wall-clock-traps",
+   "https://www.kaggle.com/benchmarks/tasks/wishbonedata/wall-clock-traps"
+  ]
+ },
+ {
+  "id": 4767936,
+  "user": "vereos",
+  "title": "Hindsight-Free Temporal Evidence Eligibility",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-29T02:38:18Z",
+  "words": 926,
+  "links": [
+   "https://www.kaggle.com/code/jeonghosong/new-benchmark-task-fe5fd"
+  ]
+ },
+ {
+  "id": 4758346,
+  "user": "ritamgit_alt",
+  "title": "Do LLMs Catch Bad Startup Math? My First Answer Was Wrong.",
+  "reactions": 0,
+  "comments": 7,
+  "published": "2026-09-27T23:13:42Z",
+  "words": 1006,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/ritamgit/cac-ltv-check",
+   "https://www.kaggle.com/code/ritamgit/ltv-cac-growth-math-sanity-check",
+   "https://www.kaggle.com/benchmarks/tasks/ritamgit/threshold-probe"
+  ]
+ },
+ {
+  "id": 4764388,
+  "user": "exochard",
+  "title": "AI reviewers catch Italian UI bugs, then flag the good fixes too",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-28T13:29:15Z",
+  "words": 1243,
+  "links": [
+   "https://www.kaggle.com/benchmarks/giuseppecastelluccio/italian-ui-strings-shipped-vs-fixed",
+   "https://www.kaggle.com/benchmarks/tasks/giuseppecastelluccio/italian-ui-strings-shipped-vs-fixed"
+  ]
+ },
+ {
+  "id": 4757061,
+  "user": "danielecangi",
+  "title": "What Happens When an AI System Is Built to Challenge Its Own Decisions?",
+  "reactions": 5,
+  "comments": 1,
+  "published": "2026-09-27T17:15:45Z",
+  "words": 1582,
+  "links": [
+   "https://www.kaggle.com/benchmarks/danielecangi/decision-conditioned-falsification"
+  ]
+ },
+ {
+  "id": 4758661,
+  "user": "anchildress1",
+  "title": "The Code Didn't Change. The Credit Did.",
+  "reactions": 11,
+  "comments": 1,
+  "published": "2026-09-28T00:41:50Z",
+  "words": 2642,
+  "links": [
+   "https://www.kaggle.com/benchmarks/anchildress1/ai-attribution-honesty-who-wrote-the-code/leaderboard"
+  ]
+ },
+ {
+  "id": 4754043,
+  "user": "zkasuran",
+  "title": "AI models catch bad code, then cry wolf on the good code",
+  "reactions": 0,
+  "comments": 1,
+  "published": "2026-09-27T05:20:55Z",
+  "words": 1333,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/zkasuran/blog-vs-bytecode"
+  ]
+ },
+ {
+  "id": 4734153,
+  "user": "unit_500_c36d1b1011fdf39c",
+  "title": "100% vuln detection wasn't enough: measuring whether AI respects the patch",
+  "reactions": 7,
+  "comments": 4,
+  "published": "2026-09-24T13:18:19Z",
+  "words": 1437,
+  "links": [
+   "https://www.kaggle.com/benchmarks/moranzavdi/attacker-reachable-sink-triage-art",
+   "https://www.kaggle.com/benchmarks/tasks/moranzavdi/art-label-triage",
+   "https://www.kaggle.com/benchmarks/tasks/moranzavdi/art-overconfidence-trap",
+   "https://www.kaggle.com/benchmarks/tasks/moranzavdi/art-proof-marker-poc"
+  ]
+ },
+ {
+  "id": 4749617,
+  "user": "rudratosh",
+  "title": "An AI Correctly Ignored a Forum Rumor. I Removed One Label and It Paid Out $150.",
+  "reactions": 5,
+  "comments": 4,
+  "published": "2026-09-26T12:23:47Z",
+  "words": 1969,
+  "links": [
+   "https://www.kaggle.com/benchmarks/tasks/rudratoshshastri/who-said-that-defended",
+   "https://www.kaggle.com/benchmarks/tasks/rudratoshshastri/who-said-that"
+  ]
+ },
+ {
+  "id": 4750777,
+  "user": "suyashmagar17",
+  "title": "10 Real Airflow Incidents, 5 AI Models — Which One Handled Production Best?",
+  "reactions": 0,
+  "comments": 2,
+  "published": "2026-09-26T15:47:54Z",
+  "words": 843,
+  "links": [
+   "https://www.kaggle.com/benchmarks/suyashmagar/opsbench-airflow-and-sre-troubleshooting/leaderboard"
+  ]
+ },
+ {
+  "id": 4727332,
+  "user": "heyitsjem",
+  "title": "Join the Kaggle Benchmarking Challenge: $2,500 in Prizes for FIVE Winners!",
+  "reactions": 198,
+  "comments": 53,
+  "published": "2026-09-23T20:59:28Z",
+  "words": 657,
+  "links": [
+   "https://www.kaggle.com/benchmarks"
+  ]
+ },
+ {
+  "id": 4741273,
+  "user": "rizkynandapr",
+  "title": "UMKM-Bench: I tested 8 LLMs on how Indonesians really text online shops",
+  "reactions": 1,
+  "comments": 4,
+  "published": "2026-09-25T10:22:35Z",
+  "words": 2063,
+  "links": [
+   "https://www.kaggle.com/benchmarks/rizkynandapraditia/umkm-bench"
+  ]
+ },
+ {
+  "id": 4743869,
+  "user": "rajan_mishra_a9f78ad216b4",
+  "title": "Does an AI Trust Itself More Than It Trusts You? A Benchmark for Belief Attribution",
+  "reactions": 35,
+  "comments": 2,
+  "published": "2026-09-25T16:14:20Z",
+  "words": 1852,
+  "links": [
+   "https://www.kaggle.com/code/rajanmishraqw/soba-benchmark"
+  ]
+ },
+ {
+  "id": 4739928,
+  "user": "devaland",
+  "title": "The page with the answer was missing. Half the models added up a total the document never states.",
+  "reactions": 0,
+  "comments": 0,
+  "published": "2026-09-25T07:27:03Z",
+  "words": 1590,
+  "links": [
+   "https://www.kaggle.com/benchmarks/devalandmarketing/negative-from-a-partial-read",
+   "https://www.kaggle.com/benchmarks/tasks/devalandmarketing/negative-from-a-partial-read/2",
+   "https://www.kaggle.com/benchmarks/tasks/devalandmarketing/negative-from-a-partial-read-unprompted/1"
+  ]
+ },
+ {
+  "id": 4734787,
+  "user": "yemmmyc",
+  "title": "Can AI Diagnose a Linux Production Incident Without Making It Worse?",
+  "reactions": 0,
+  "comments": 3,
+  "published": "2026-09-24T15:05:39Z",
+  "words": 1123,
+  "links": [
+   "https://www.kaggle.com/benchmarks/yemmmychotmailcom/linux-sre-incident-diagnosis/versions/1"
+  ]
+ },
+ {
+  "id": 4729642,
+  "user": "jaredchuvn",
+  "title": "Three perfect scores weren't enough: testing AI outage decisions one fact at a time",
+  "reactions": 5,
+  "comments": 0,
+  "published": "2026-09-24T05:27:05Z",
+  "words": 1209,
+  "links": [
+   "https://www.kaggle.com/benchmarks/manhhienchu/website-outage-next-step-pilot",
+   "https://www.kaggle.com/benchmarks/tasks/manhhienchu/outage-next-step-pilot-v1/3",
+   "https://www.kaggle.com/benchmarks/tasks/manhhienchu/outage-paired-decisions-v2/1",
+   "https://www.kaggle.com/code/manhhienchu/website-outage-paired-decisions-v2"
+  ]
+ }
+]
