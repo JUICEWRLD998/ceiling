@@ -1,0 +1,5 @@
+Model,(Overall),receipt-triplets-t1-report-bare,receipt-triplets-t2-report-defs,receipt-triplets-t3-do-bare,receipt-triplets-t4-report-proof,receipt-triplets-t5-coat-check-report,receipt-triplets-t6-coat-check-do,receipt-triplets-t7-coat-check-blind-report,receipt-triplets-t8-coat-check-blind-do
+Claude Haiku 4.5,0.9140625,0.9375,1,0.375,1,1,1,1,1
+Gemini 3.8 Flash,0.90625,0.6875,0.875,0.6875,1,1,1,1,1
+Gemini 3.7 Flash,0.828125,0.5625,0.8125,0.3125,0.9375,1,1,1,1
+GPT-5.4 nano,0.75,0.625,0.625,0.0,0.8125,1,0.9375,1,1

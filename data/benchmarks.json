@@ -1,0 +1,597 @@
+[
+ {
+  "slug": "danielbalcarek/reasoning-about-retry-safety-in-api",
+  "posts": [
+   4776935
+  ]
+ },
+ {
+  "slug": "starkhushi/right-answer-wrong-reason-ml-judgment-calls",
+  "posts": [
+   4821322
+  ]
+ },
+ {
+  "slug": "finnmead/precedent-vs-spec",
+  "posts": [
+   4822777
+  ]
+ },
+ {
+  "slug": "fuddle/hindsight-catching-historys-costliest-bugs",
+  "posts": [
+   4822439
+  ]
+ },
+ {
+  "slug": "chauhanbalaji/paraphrase-stability-benchmark",
+  "posts": [
+   4821300
+  ]
+ },
+ {
+  "slug": "henrysrdz/noadivines-safe-order-taking-in-informal-spanish",
+  "posts": [
+   4821577
+  ]
+ },
+ {
+  "slug": "sigireddyviswesh/nixie",
+  "posts": [
+   4819389
+  ]
+ },
+ {
+  "slug": "onkarcybersec/trustboundary-bench",
+  "posts": [
+   4818665
+  ]
+ },
+ {
+  "slug": "celebrum/orbit-scoped-evidence-and-user-choice",
+  "posts": [
+   4820710
+  ]
+ },
+ {
+  "slug": "brandonfavor/hunter",
+  "posts": [
+   4818226
+  ]
+ },
+ {
+  "slug": "sasankaweerakoon/deployguard",
+  "posts": [
+   4818888
+  ]
+ },
+ {
+  "slug": "levittliwenye/audio-arithmetic-24-music-workflow-checks",
+  "posts": [
+   4816385
+  ]
+ },
+ {
+  "slug": "shabanumar/green-tests-shipped-bugs",
+  "posts": [
+   4816900
+  ]
+ },
+ {
+  "slug": "emmimalalexander/butterflybench",
+  "posts": [
+   4811570
+  ]
+ },
+ {
+  "slug": "vinimabreu/keep-the-number-you-wrote",
+  "posts": [
+   4814063
+  ]
+ },
+ {
+  "slug": "anvipardhi/fill-accuracy",
+  "posts": [
+   4810171
+  ]
+ },
+ {
+  "slug": "sohee087/which-ai-lies-less-in-marketing-copy",
+  "posts": [
+   4808765
+  ]
+ },
+ {
+  "slug": "shenjun93/bounty-triage",
+  "posts": [
+   4805976
+  ]
+ },
+ {
+  "slug": "carlosjv91/receipt-before-claim",
+  "posts": [
+   4807529
+  ]
+ },
+ {
+  "slug": "ankith111111111/indian-business-data-gst-upi-and-lakh-crore",
+  "posts": [
+   4806164
+  ]
+ },
+ {
+  "slug": "mistakilihive/realtor-intake",
+  "posts": [
+   4805995
+  ]
+ },
+ {
+  "slug": "fjfdepedro/real-sources-drifted-claims",
+  "posts": [
+   4807192
+  ]
+ },
+ {
+  "slug": "elshahaby/constraintbenckmark",
+  "posts": [
+   4805658
+  ]
+ },
+ {
+  "slug": "mrmaran06/tanglish-script-penalty",
+  "posts": [
+   4803026
+  ]
+ },
+ {
+  "slug": "hongliwang2002/cash-evidence-boundaries",
+  "posts": [
+   4801443
+  ]
+ },
+ {
+  "slug": "emaliahiggins/local-trust-bench",
+  "posts": [
+   4798873
+  ]
+ },
+ {
+  "slug": "abhialex/agentcallbench-tool-calling-reliability",
+  "posts": [
+   4812098
+  ]
+ },
+ {
+  "slug": "brunof94debug/cents-matter-centavos-importam",
+  "posts": [
+   4815114
+  ]
+ },
+ {
+  "slug": "winkoaung/myanmar-chem-calc-bench",
+  "posts": [
+   4793787
+  ]
+ },
+ {
+  "slug": "hkayzz/reward-evidence-offers-and-cash-receipts",
+  "posts": [
+   4791739
+  ]
+ },
+ {
+  "slug": "lawliet8886/fechamento-br-same-score-different-failure",
+  "posts": [
+   4814982
+  ]
+ },
+ {
+  "slug": "aqeelabbas38/undo-only-yours",
+  "posts": [
+   4788655
+  ]
+ },
+ {
+  "slug": "jayenichols/frameflip48",
+  "posts": [
+   4788724
+  ]
+ },
+ {
+  "slug": "mrawai/hold-the-line",
+  "posts": [
+   4787776
+  ]
+ },
+ {
+  "slug": "xover2022/bilingual-patch-contracts",
+  "posts": [
+   4783758
+  ]
+ },
+ {
+  "slug": "danielbutnar/romanian-comma-below",
+  "posts": [
+   4783452
+  ]
+ },
+ {
+  "slug": "sean2333/repair-without-breaking-4096-token-follow-up",
+  "posts": [
+   4783259
+  ]
+ },
+ {
+  "slug": "jacobrichard312/evidence-boundary-exposure-authority-and-grounding",
+  "posts": [
+   4781267
+  ]
+ },
+ {
+  "slug": "luodahong/progress-without-overreach",
+  "posts": [
+   4778648
+  ]
+ },
+ {
+  "slug": "michaelomijiemkings/who-explains-things-clearest",
+  "posts": [
+   4776663
+  ]
+ },
+ {
+  "slug": "ashutoshranjan8/false-premise-resistance-benchmark",
+  "posts": [
+   4773829
+  ]
+ },
+ {
+  "slug": "anur7ag/wheel-of-fortune",
+  "posts": [
+   4766560
+  ]
+ },
+ {
+  "slug": "harshsingh1708/stale-facts",
+  "posts": [
+   4764031
+  ]
+ },
+ {
+  "slug": "hellomathieup/twelve-apps-one-clich-each",
+  "posts": [
+   4800457
+  ]
+ },
+ {
+  "slug": "mahenderprataps/cpp-logical-bug-detection-benchmark",
+  "posts": [
+   4764871
+  ]
+ },
+ {
+  "slug": "yaroslavperventsev/read-the-dashboard",
+  "posts": [
+   4784966
+  ]
+ },
+ {
+  "slug": "zeeshan1271/least-privilege-cloud-operations",
+  "posts": [
+   4787344
+  ]
+ },
+ {
+  "slug": "arshadmohammadansari/hinglish-ai-benchmark",
+  "posts": [
+   4762238
+  ]
+ },
+ {
+  "slug": "yutaopeng/paused-workflow-recovery-benchmark",
+  "posts": [
+   4749948
+  ]
+ },
+ {
+  "slug": "rajabbaig/my-edit-or-abstain-ai-code-repair-decision-bm",
+  "posts": [
+   4747000
+  ]
+ },
+ {
+  "slug": "akj160/only-what-i-asked",
+  "posts": [
+   4744619
+  ]
+ },
+ {
+  "slug": "shian668/claimed-done-do-agents-admit-a-task-failed",
+  "posts": [
+   4743579
+  ]
+ },
+ {
+  "slug": "mujohn25/knows-it-falls-anyway",
+  "posts": [
+   4734126
+  ]
+ },
+ {
+  "slug": "hugovalerrojas/deadline-mat",
+  "posts": [
+   4810794
+  ]
+ },
+ {
+  "slug": "dpquote/ovela-phone-agent-before-and-after-the-fix",
+  "posts": [
+   4804069
+  ]
+ },
+ {
+  "slug": "idhoaf/sabotaged-tools-do-agents-verify-their-tools",
+  "posts": [
+   4745167
+  ]
+ },
+ {
+  "slug": "soumyaexe/is-this-still-the-test",
+  "posts": [
+   4788126
+  ]
+ },
+ {
+  "slug": "pettuganihotragn/fan-out-concurrent-tool-safety",
+  "posts": [
+   4805645
+  ]
+ },
+ {
+  "slug": "guillermovs/spec-hash-or-guess-verifactu",
+  "posts": [
+   4807226
+  ]
+ },
+ {
+  "slug": "kakarotdev/dont-take-orders-from-the-internet",
+  "posts": [
+   4742308
+  ]
+ },
+ {
+  "slug": "simonlevy42/csv-contract-integrity",
+  "posts": [
+   4789049
+  ]
+ },
+ {
+  "slug": "guanguanli/support-boundary-bench",
+  "posts": [
+   4780193
+  ]
+ },
+ {
+  "slug": "devdoc83/destructive-reach",
+  "posts": [
+   4808354
+  ]
+ },
+ {
+  "slug": "bjrnnorman/promise-is-not-payment",
+  "posts": [
+   4757770
+  ]
+ },
+ {
+  "slug": "pavelkazantsev7776/architecture-aware-typescript-code-review",
+  "posts": [
+   4806077
+  ]
+ },
+ {
+  "slug": "ipgleg/kz-scam-shield",
+  "posts": [
+   4806777,
+   4807660
+  ]
+ },
+ {
+  "slug": "ankit121singh/sycophancy-under-pressure",
+  "posts": [
+   4808624
+  ]
+ },
+ {
+  "slug": "jonathanandrei/world-clock",
+  "posts": [
+   4801962
+  ]
+ },
+ {
+  "slug": "karlisgutans/job-ad-specificity-what-llms-commit-to",
+  "posts": [
+   4800327
+  ]
+ },
+ {
+  "slug": "karlisgutans/job-ad-specificity-20-what-llms-commit-to",
+  "posts": [
+   4800327
+  ]
+ },
+ {
+  "slug": "cooldj29/cot-faithfulness",
+  "posts": [
+   4754483
+  ]
+ },
+ {
+  "slug": "geekgod382/legacy-code-modernization",
+  "posts": [
+   4794792
+  ]
+ },
+ {
+  "slug": "atharvarai1/first-benchmark",
+  "posts": [
+   4728905
+  ]
+ },
+ {
+  "slug": "shiroganemaji/passing-tests-vs-solving",
+  "posts": [
+   4786323
+  ]
+ },
+ {
+  "slug": "ujjavalasingh/cyber-autopsy-benchmark",
+  "posts": [
+   4782905
+  ]
+ },
+ {
+  "slug": "nishikantaray/insighttrack-analyst-bench",
+  "posts": [
+   4757420
+  ]
+ },
+ {
+  "slug": "kudzaimurimi/plausible-pr-security-bugs-hidden-in-clean-refact",
+  "posts": [
+   4774516
+  ]
+ },
+ {
+  "slug": "anuththara2007/proofsec-security-evidence-reasoning-benchmark",
+  "posts": [
+   4770398
+  ]
+ },
+ {
+  "slug": "elioliberatore/playoff-probability-calibration-llms-vs-a-real-mo",
+  "posts": [
+   4751842
+  ]
+ },
+ {
+  "slug": "yongchankwonnuckdrip/reservation-replay",
+  "posts": [
+   4750764
+  ]
+ },
+ {
+  "slug": "xbillwork/count-it-or-compute-it",
+  "posts": [
+   4744048
+  ]
+ },
+ {
+  "slug": "himanshujha2812/tooltrap-source-trust-in-support-agents",
+  "posts": [
+   4760794
+  ]
+ },
+ {
+  "slug": "iswt42/two-kinds-of-false-done",
+  "posts": [
+   4785723
+  ]
+ },
+ {
+  "slug": "loichianghao/ai-security-stress-test-code-cloud-config-and-jail",
+  "posts": [
+   4784209
+  ]
+ },
+ {
+  "slug": "kanakwaradkar/indocentric-institutional-ai-bias-benchmark",
+  "posts": [
+   4785109
+  ]
+ },
+ {
+  "slug": "soufianzaari/darijabench",
+  "posts": [
+   4783602
+  ]
+ },
+ {
+  "slug": "nissshhk/silentbug-bench",
+  "posts": [
+   4783903
+  ]
+ },
+ {
+  "slug": "pierrelaurentmedori/one-url-two-readings",
+  "posts": [
+   4778060
+  ]
+ },
+ {
+  "slug": "sergeiparfenov/chartreplay-source-grounded-record-integrity",
+  "posts": [
+   4776819
+  ]
+ },
+ {
+  "slug": "wishbonedata/wall-clock-traps",
+  "posts": [
+   4774458
+  ]
+ },
+ {
+  "slug": "giuseppecastelluccio/italian-ui-strings-shipped-vs-fixed",
+  "posts": [
+   4764388
+  ]
+ },
+ {
+  "slug": "danielecangi/decision-conditioned-falsification",
+  "posts": [
+   4757061
+  ]
+ },
+ {
+  "slug": "anchildress1/ai-attribution-honesty-who-wrote-the-code",
+  "posts": [
+   4758661
+  ]
+ },
+ {
+  "slug": "moranzavdi/attacker-reachable-sink-triage-art",
+  "posts": [
+   4734153
+  ]
+ },
+ {
+  "slug": "suyashmagar/opsbench-airflow-and-sre-troubleshooting",
+  "posts": [
+   4750777
+  ]
+ },
+ {
+  "slug": "rizkynandapraditia/umkm-bench",
+  "posts": [
+   4741273
+  ]
+ },
+ {
+  "slug": "devalandmarketing/negative-from-a-partial-read",
+  "posts": [
+   4739928
+  ]
+ },
+ {
+  "slug": "yemmmychotmailcom/linux-sre-incident-diagnosis",
+  "posts": [
+   4734787
+  ]
+ },
+ {
+  "slug": "manhhienchu/website-outage-next-step-pilot",
+  "posts": [
+   4729642
+  ]
+ }
+]
