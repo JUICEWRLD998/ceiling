@@ -18,3 +18,9 @@
 - 1.3/1.4 DONE: parser + 5 tests pass (planted ceiling, planted percent, quoted commas, non-numeric overall rejected, real Two Kinds page).
   90 of 99 parsed (91%). 3 rejected for non-numeric overall (Pass/Fail style). Still owed: hand-check 10 pages.
 - Gap: 33 posts link only /benchmarks/tasks/... pages (task-level), not benchmark pages. Not covered yet.
+- CLI push fix attempts (2026-10-09): 5 pushes (probe, probe-two, SKILL.md minimal task, ladder-k03) all return
+  "An error occurred while saving the entity changes". Server creates the task row, creation_state stays UNSPECIFIED, run refuses.
+  Content is not the cause (the official minimal example fails too). CLI source (kaggle 2.2.4 benchmarks_tasks_push_cli) just forwards
+  the server's `error` field. Same account also gets 403 on `kaggle b auth`. Hypotheses: Benchmarks terms not yet accepted in the web UI,
+  or Model Proxy not enabled for the account. Next: user opens kaggle.com/benchmarks in a browser and accepts any terms / creates a task there.
+- Orphan tasks on the account (cannot delete, server does not support it): ceiling-probe, ceiling-probe-two, ceiling-min, ladder-k03 (all private).
