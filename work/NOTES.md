@@ -11,3 +11,6 @@
   in `kaggle b t list` with Status Unspecified; `run` refuses ("not ready, status UNSPECIFIED"). Same account likely lacks
   Model Proxy enablement (b auth 403). Fallback 0.2: build the task in the Kaggle web editor.
 - Windows: set PYTHONUTF8=1 or the CLI crashes on table box-drawing chars (charmap error).
+- 0.6 DONE: grep of 175 post bodies (other entries|all the benchmarks|this challenge|cohort...) -> 9 hits, all incidental or a link to ONE other entry.
+  No cohort-wide audit exists. Empty cell stands (2026-10-09).
+- Harvest (work/harvest.mjs): 175 posts, 99 distinct owner/slug benchmark pages; 33 more posts link only /benchmarks/tasks/... pages.
